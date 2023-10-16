@@ -1,6 +1,12 @@
-#### 👋 Olá, bem vindos ao meu Github! 
+#### 👋 Quem Sou Eu! 
 
-O meu nome é Igor e sou um estudante de Ciência da Computação ⚡
+O meu nome é Igor Marlon 
+
+:hearts: Sou aficionado por tecnologia e inovação 💡
+
+🚴 Amo pedalar, fazer trilhas e estar sempre em contato com a natureza 🍀
+
+📖 Sou movido por cultura e arte: ler é a minha paixão! 🎨
 
 #### 🔭 Estou aprendendo... 
 
@@ -8,7 +14,7 @@ O meu nome é Igor e sou um estudante de Ciência da Computação ⚡
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40" height="40"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-           
+           -->
 #### 😄 Entre em contato comigo:           
 
 <a href="https://www.linkedin.com/in/igor-marlon/">
