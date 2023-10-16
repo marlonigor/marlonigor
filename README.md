@@ -14,7 +14,7 @@ O meu nome é Igor Marlon
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40" height="40"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-           -->
+           
 #### 😄 Entre em contato comigo:           
 
 <a href="https://www.linkedin.com/in/igor-marlon/">
