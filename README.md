@@ -2,7 +2,7 @@
 
 O meu nome é Igor Marlon 
 
-:hearts: Sou aficionado por tecnologia e inovação 💡
+:hearts: Sou aficionado por tecnologia 💡
 
 🚴 Amo pedalar, fazer trilhas e estar sempre em contato com a natureza 🍀
 
