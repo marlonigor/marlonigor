@@ -1,6 +1,6 @@
 #### 👋 Quem Sou Eu! 
 
-O meu nome é Igor Marlon 
+Oi, o meu nome é Igor Marlon 
 
 :hearts: Sou aficionado por tecnologia 💡
 
