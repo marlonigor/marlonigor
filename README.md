@@ -8,11 +8,6 @@ Oi, o meu nome é Igor Marlon
 
 📖 Sou movido por cultura e arte: ler é a minha paixão! 🎨
 
-#### 🔭 Estou aprendendo... 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marlonigor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 😄 Entre em contato comigo:           
