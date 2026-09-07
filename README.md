@@ -6,9 +6,9 @@ Oi, o meu nome é Igor Marlon
 
 📖 Sou movido por cultura e arte: ler é a minha paixão! 🎨
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marlonigor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=marlonigor&layout=pie&langs_count=6&theme=noctis_minimus)](https://github-stats-extended.vercel.app/api/top-langs?username=marlonigor&layout=pie&langs_count=6&theme=noctis_minimus)
 
-#### 😄 Entre em contato comigo:           <a href="https://www.linkedin.com/in/igor-marlon/"> <img src="https://img.shields.io/badge/linkedin-blue" width="40" height="40"/></a>
+#### 😄 Entre em contato comigo:           <a href="https://www.linkedin.com/in/igor-marlon/"> <img src="https://img.shields.io/badge/linkedin-blue"/></a>
                     
 <!--
 **marlonigor/marlonigor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
